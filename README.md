@@ -1,1 +1,1 @@
-# Drum-Kit
+A drum kit is a set of percussion instruments, including a bass drum, snare drum, toms, hi-hat, and cymbals (ride and crash), arranged for a single player. It provides rhythm and beat in various music genres, with each component contributing distinct sounds—from the deep thud of the bass drum to the sharp crack of the snare and the ringing tones of the cymbals. The setup can be customized to suit different styles of music.
